@@ -1,0 +1,3 @@
+172.19.0.1 - - [30/Sep/2016:10:46:50 +0800] "GET / HTTP/1.1" 200 679 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36"
+172.19.0.1 - - [30/Sep/2016:10:46:50 +0800] "GET /favicon.ico HTTP/1.1" 404 571 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36"
+172.19.0.1 - - [30/Sep/2016:10:46:55 +0800] "GET /phpinfo.php HTTP/1.1" 200 92969 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36"

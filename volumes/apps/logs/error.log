@@ -1,0 +1,1 @@
+2016/09/30 10:46:50 [error] 5#0: *1 open() "/apps/localhost/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
